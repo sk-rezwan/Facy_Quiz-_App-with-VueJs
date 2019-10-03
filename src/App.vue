@@ -56,7 +56,7 @@ export default {
         this.questions = jsonData.results
       })
   }
-}
+};
 </script>
 
 <style>
